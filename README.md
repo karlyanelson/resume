@@ -38,7 +38,7 @@ _April 2022 to present • St. Louis, MO_
 
 _Jan 2021 - April 2022 • St. Louis, MO_
 
-Worked on React apps, learned React Testing Library, helped lead accessibility initiative. Wrote figma plugins. Implemented design system and tokens I helped design across various platforms and teams - React Web, React Native, Tailwind, Android, iOS
+Worked on React apps, learned React Testing Library and Tailwind, helped lead accessibility initiative. Wrote figma plugins. Implemented design system and tokens I helped design across various platforms and teams - React Web, React Native, Tailwind, Android, iOS
 
 ### Worldwide Technology • UX Consultant
 
