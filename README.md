@@ -2,6 +2,16 @@
 
 ## Education
 
+### Washington University in St. Louis
+
+Sam Fox School of Design & Visual Arts
+B.F.A. in Communication Design 2014
+Second Major in Anthropology
+
+### Santa Reparata International School of Art
+
+Study Abroad • Spring 2012 • Florence, Italy
+
 ## Job History
 
 ### Ledger Works • Senior Software Engineer
@@ -82,5 +92,8 @@ Collaborated with a small marketing team as part of a leadership development con
   - Remix
   - NextJS
   - Vue
+- Git
+- JIRA
+- Agile
 - Accessibility
   - Helped lead a11y initiative at WWT - creating cheatsheets, training, researching automatic accessibility testing, etc.
