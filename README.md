@@ -37,6 +37,9 @@ _April 2022 to present • St. Louis, MO_
 - **Infra**:
   - AWS
     - Deploy to S3 and Cloudfront
+    - Write Node Lambdas
+  - Mirror
+    - 99.999 success rate on API with 30 mil calls a month
   - Monitoring
     - Pingdom
     - Mixpanel
