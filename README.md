@@ -25,6 +25,8 @@ _April 2022 to present • St. Louis, MO_
   - Figma
   - Design tokens - set up theming, light and dark
     - Used across figma, tailwind, and MUI theming
+  - Designed frontend for customer portal and Explore
+  - Co-Designed and built marketing site in Webflow
 - **Frontend**:
   - Remix
   - React
@@ -45,7 +47,13 @@ _April 2022 to present • St. Louis, MO_
     - Mixpanel
     - Google Analytics
   - Feature flags with Launch Darkly
-- Set up Github Actions and Workflows
+  - Set up Github Actions and Workflows
+
+#### Portfolio things
+
+- Product logos
+- Marketing site - lworks.io
+- Designed and built Explorer myself based off our Remix app - https://explore.lworks.io/
 
 ### Worldwide Technology • Frontend Engineer
 
@@ -95,8 +103,10 @@ Collaborated with a small marketing team as part of a leadership development con
   - Remix
   - NextJS
   - Vue
+  - Svelte
 - Git
 - JIRA
 - Agile
+- Webflow
 - Accessibility
   - Helped lead a11y initiative at WWT - creating cheatsheets, training, researching automatic accessibility testing, etc.
