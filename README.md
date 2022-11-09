@@ -20,6 +20,7 @@ _April 2022 to present • St. Louis, MO_
 
 - Software as a service on top of blockchain ledger - Hedera Hashgraph
 - UX Design, frontend development, api development, backend development, infrastructure
+- Agile development team
 - **Design**:
   - Created logos and branding for all of our products
   - Figma
@@ -65,12 +66,12 @@ Worked on React apps, learned React Testing Library and Tailwind, helped lead ac
 
 _May 2019 - Jan 2021 • St. Louis, MO_
 
-Design systems, design tokens, figma. Across web and mobile.
+Integrated with agile development teams. Design systems, design tokens, figma. Across web and mobile.
 
 ### Asynchrony Labs • UX Designer
 
 _Jun 2014 - May 2019 • St. Louis, MO_
-Designed mobile applications for iPhone, iPad and Apple Watch. Performed usability and user experience assessments for mobile applications. Designed and engineered the front-end for various responsive web applications. Designed t-shirts, posters, presentations, and any other company design needs.
+Designed mobile applications for iPhone, iPad and Apple Watch. Performed usability and user experience assessments for mobile applications. Designed and engineered the front-end for various responsive web applications as part of agile development teams. Designed t-shirts, posters, presentations, and any other company design needs.
 
 ### Bebop • UX Design Intern
 
@@ -93,6 +94,7 @@ Collaborated with a small marketing team as part of a leadership development con
   - Figma
   - Adobe Creative Suite (Illustrator, Photoshop, InDesign)
   - Sketch
+  - Webflow
 - Programming Languages & Frameworks
   - HTML
   - CSS
@@ -104,9 +106,10 @@ Collaborated with a small marketing team as part of a leadership development con
   - NextJS
   - Vue
   - Svelte
+  - Terraform
+- AWS
 - Git
-- JIRA
+- Jira
 - Agile
-- Webflow
 - Accessibility
   - Helped lead a11y initiative at WWT - creating cheatsheets, training, researching automatic accessibility testing, etc.
