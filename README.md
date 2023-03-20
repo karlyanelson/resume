@@ -19,6 +19,7 @@ Study Abroad • Spring 2012 • Florence, Italy
 _April 2022 to present • St. Louis, MO_
 
 - Software as a service on top of blockchain ledger - Hedera Hashgraph
+- Multi-chain security, monitoring and notification platform across Hedera, Avalanche, and Ethereum
 - UX Design, frontend development, api development, backend development, infrastructure
 - Agile development team
 - **Design**:
@@ -26,41 +27,55 @@ _April 2022 to present • St. Louis, MO_
   - Figma
   - Design tokens - set up theming, light and dark
     - Used across figma, tailwind, and MUI theming
-  - Designed frontend for customer portal and Explore
+  - Designed frontend for Chainmail, customer portal, and Explore
   - Co-Designed and built marketing site in Webflow
 - **Frontend**:
   - Remix
+  - Next JS
   - React
+  - Typescript
   - Tailwind
   - Material UI Component Library
   - Cypress
   - React Testing Library
-- **Backend**: ??
-- **API**: ??
+- **Backend**:
+  - Dynamo DB
+- **API**:
+  - API Gateway
+  - Lambdas
 - **Infra**:
+  - Terraform
   - AWS
     - Deploy to S3 and Cloudfront
     - Write Node Lambdas
+    - Deploy containers to ECS
   - Mirror
     - 99.999 success rate on API with 30 mil calls a month
   - Monitoring
+    - Grafana
+    - Cloudwatch
     - Pingdom
     - Mixpanel
     - Google Analytics
   - Feature flags with Launch Darkly
   - Set up Github Actions and Workflows
-
-#### Portfolio things
-
-- Product logos
-- Marketing site - lworks.io
-- Designed and built Explorer myself based off our Remix app - https://explore.lworks.io/
+- **Portfolio things**
+  - Customer Portal
+  - Chainmail
+  - Product logos
+  - Marketing site - lworks.io
+  - Designed and built Explorer myself based off our Remix app - https://explore.lworks.io/
 
 ### Worldwide Technology • Frontend Engineer
 
 _Jan 2021 - April 2022 • St. Louis, MO_
 
-Worked on React apps, learned React Testing Library and Tailwind, helped lead accessibility initiative. Wrote figma plugins. Implemented design system and tokens I helped design across various platforms and teams - React Web, React Native, Tailwind, Android, iOS
+Worked on React apps, helped lead accessibility initiative. Wrote figma plugins. Implemented design system and tokens I helped design across various platforms and teams - React Web, React Native, Tailwind, Android, iOS.
+
+- React
+- React Testing Library
+- Tailwind CSS
+- Ruby on Rails
 
 ### Worldwide Technology • UX Consultant
 
