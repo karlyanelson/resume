@@ -18,7 +18,6 @@ Study Abroad • Spring 2012 • Florence, Italy
 
 _April 2022 to present • St. Louis, MO_
 
-- Software as a service on top of blockchain ledger - Hedera Hashgraph
 - Multi-chain security, monitoring and notification platform across Hedera, Avalanche, and Ethereum
 - UX Design, frontend development, api development, backend development, infrastructure
 - Agile development team
@@ -40,6 +39,8 @@ _April 2022 to present • St. Louis, MO_
   - React Testing Library
 - **Backend**:
   - Dynamo DB
+  - Kafka Streams
+  - Timescale DB
 - **API**:
   - API Gateway
   - Lambdas
@@ -116,6 +117,7 @@ Collaborated with a small marketing team as part of a leadership development con
   - Sass
   - Tailwind CSS
   - Javascript
+  - Typescript
   - React
   - Remix
   - NextJS
