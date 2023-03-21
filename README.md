@@ -27,7 +27,7 @@ _April 2022 to present • St. Louis, MO_
   - Design tokens - set up theming, light and dark
     - Used across figma, tailwind, and MUI theming
   - Designed frontend for Chainmail, customer portal, and Explore
-  - Co-Designed and built marketing site in Webflow
+  - Designed and built marketing site in Webflow
 - **Frontend**:
   - Remix
   - Next JS
