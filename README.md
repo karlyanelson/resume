@@ -114,20 +114,35 @@ Collaborated with a small marketing team as part of a leadership development con
   - Sketch
   - Webflow
 - Programming Languages & Frameworks
-  - HTML
-  - CSS
-  - Sass
-  - Tailwind CSS
-  - Javascript
-  - Typescript
-  - React
-  - Remix
-  - NextJS
-  - Vue
-  - Svelte
-  - Terraform
-- AWS
-- Git
+  - Proficient
+    - HTML
+    - CSS
+    - Sass
+    - Tailwind CSS
+    - Javascript
+    - Typescript
+    - Node
+    - React
+    - Remix
+    - Git
+  - Know enough to be dangerous
+    - NextJS
+    - Vue
+    - Svelte
+    - Terraform
+    - SQL
+    - Ruby on Rails
+- AWS Experience
+  - Lambda
+  - API Gateway
+  - ECS
+  - Dynamo
+  - Cloudwatch
+  - Cloudfront
+  - S3
+  - SQS
+  - Cognito
+  - IAM
 - Jira
 - Agile
 - Accessibility
