@@ -41,6 +41,7 @@ _April 2022 to present • St. Louis, MO_
   - Dynamo DB
   - Kafka Streams
   - Timescale DB
+  - PostgreSQL
 - **API**:
   - API Gateway
   - Lambdas
