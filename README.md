@@ -132,6 +132,8 @@ Collaborated with a small marketing team as part of a leadership development con
     - Terraform
     - SQL
     - Ruby on Rails
+    - Kafka Streams
+    - Timescale DB
 - AWS Experience
   - Lambda
   - API Gateway
