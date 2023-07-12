@@ -73,7 +73,7 @@ _April 2022 to present • St. Louis, MO_
 
 _Jan 2021 - April 2022 • St. Louis, MO_
 
-Worked on React apps, helped lead accessibility initiative. Wrote figma plugins. Implemented design system and tokens I helped design across various platforms and teams - React Web, React Native, Tailwind, Android, iOS.
+Worked on React apps, helped lead accessibility initiative. Wrote figma plugins. Implemented design system and tokens I helped design across various platforms and teams - React Web, React Native, Tailwind, Android, iOS. Managed design system for a suite of applications across platforms and teams, and was a software engineer on one team.
 
 - React
 - React Testing Library
@@ -84,7 +84,7 @@ Worked on React apps, helped lead accessibility initiative. Wrote figma plugins.
 
 _May 2019 - Jan 2021 • St. Louis, MO_
 
-Integrated with agile development teams. Design systems, design tokens, figma. Across web and mobile.
+Integrated with agile development teams. Design systems, design tokens, figma. Across web and mobile. Managed design system for a suite of applications across platforms and teams. Lead design for a product across iPhone, iPad, and web across multiple teams.
 
 ### Asynchrony Labs • UX Designer
 
