@@ -142,7 +142,8 @@ Collaborated with a small marketing team as part of a leadership development con
   - S3
   - SQS
   - Cognito
-  - IAM
+  - IAM Auth
+  - EC2 Load Balancers
 - Jira
 - Agile
 - Accessibility
