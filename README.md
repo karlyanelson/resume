@@ -45,6 +45,7 @@ _April 2022 to present • St. Louis, MO_
 - **API**:
   - API Gateway
   - Lambdas
+  - Node
 - **Infra**:
   - Terraform
   - AWS
