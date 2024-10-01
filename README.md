@@ -16,11 +16,12 @@ Study Abroad • Spring 2012 • Florence, Italy
 
 ### Ledger Works • Senior Software Engineer
 
-_April 2022 to present • St. Louis, MO_
+_April 2022 to present • Remote_
 
-- Multi-chain security, monitoring and notification platform across Hedera, Avalanche, and Ethereum
-- UX Design, frontend development, api development, backend development, infrastructure
+- Multi-chain security, monitoring and notification platform across Hedera, Avalanche, Ethereum, Arbitrum, Polygon, Kava, and more.
+- UX Design, frontend development, api development, backend development, infrastructure, devops
 - Agile development team
+- Deploy to production multiple times a day
 - **Design**:
   - Created logos and branding for all of our products
   - Figma
@@ -67,7 +68,7 @@ _April 2022 to present • St. Louis, MO_
   - Chainmail
   - Product logos
   - Marketing site - lworks.io
-  - Designed and built Explorer myself based off our Remix app - https://explore.lworks.io/
+  - Designed and built a Hedera Explorer myself using Remix app - https://explore.lworks.io/
 
 ### Worldwide Technology • Frontend Engineer
 
@@ -86,10 +87,18 @@ _May 2019 - Jan 2021 • St. Louis, MO_
 
 Integrated with agile development teams. Design systems, design tokens, figma. Across web and mobile. Managed design system for a suite of applications across platforms and teams. Lead design for a product across iPhone, iPad, and web across multiple teams.
 
+- Sketch, Figma
+- Javascript
+- React
+- React Mobile
+
 ### Asynchrony Labs • UX Designer
 
 _Jun 2014 - May 2019 • St. Louis, MO_
 Designed mobile applications for iPhone, iPad and Apple Watch. Performed usability and user experience assessments for mobile applications. Designed and engineered the front-end for various responsive web applications as part of agile development teams. Designed t-shirts, posters, presentations, and any other company design needs.
+
+- HTML, CSS, Sass
+- Ember JS
 
 ### Bebop • UX Design Intern
 
@@ -125,24 +134,28 @@ Collaborated with a small marketing team as part of a leadership development con
     - React
     - Remix
     - Git
+  - Mid
+    - Terraform
+    - SQL
+    - Timescale DB
   - Know enough to be dangerous
     - NextJS
     - Vue
     - Svelte
-    - Terraform
-    - SQL
+    - Ember
+    - Angular
     - Ruby on Rails
     - Kafka Streams
-    - Timescale DB
 - AWS Experience
   - Lambda
   - API Gateway
-  - ECS
+  - ECS with Fargate
   - Dynamo
   - Cloudwatch
   - Cloudfront
   - S3
-  - SQS
+  - SQS Queues
+  - SSM Parameters
   - Cognito
   - IAM Auth
   - EC2 Load Balancers
